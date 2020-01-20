@@ -1,0 +1,1 @@
+Here we are going to track only home expenses like vegetables, grocery, petrol, etc.
